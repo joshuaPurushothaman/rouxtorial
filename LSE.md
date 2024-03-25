@@ -59,14 +59,3 @@
    
 
 **The cube should be solved.**
-
----
-LOL wait are you actually in.. not white rn? 
-bc jesus that's *full* colorblind and is genuinely hard WAIT NO THATS SUPER COOL LMFAO UR ABLE TO TRANSLATE!!! It's just p hard to get used to, because (as you can see) finding good and bad edges etc is hard 
-no tbh you can just like.. *not care* LOL as long as your blocks are good w each othher! If you genuinely end up being full colorblind i will ACTUALLY BE A LITTLE JEALOUS 😭😭😭 because I'M NOT FULL CN (color neutral, same thing lol) in ANY method
-
-like i tried changing to full CN for a week.. gave up! 😁😁
-
-i end up starting blocks without realizing i have to thinka bout where to orient it - but yes i litrally have like.. red on left an (What's on bottom?) 
-
-When it comes to the last step, TECHNICALLY there *is* no bottom, they're all symmetrical now LOL
