@@ -1,8 +1,5 @@
 # Roux Tutorial
 
-
-Using the [VSCode Markdown All-In-One extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): Ctrl+Shift+P -> "Markdown: Open Preview to Side" (or not to side, either lol)
-
 ## The Steps
 - [First Block](lib/FirstBlock.md)
 - [Second Block](lib/SecondBlock.md)
