@@ -8,3 +8,7 @@ Using the [VSCode Markdown All-In-One extension](https://marketplace.visualstudi
 - [Second Block](SecondBlock.md)
 - [CMLL](CMLL.md) (Corners of the Last Layer, ignoring the M slice lol)
 - [LSE](LSE.md) (Last Six Edges)
+
+
+## "Contributing"
+[TODO list](TODO.md)
