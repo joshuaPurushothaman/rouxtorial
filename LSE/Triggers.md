@@ -1,5 +1,6 @@
 # Here are the main triggers in LSE:
 > Note, refer to the [Move Notation](./Notation.md)
+
 - "Flip": `M' U M`:
   - Flips the "arrow case" of edges, where there are 3 good on top in front, and 1 on bottom front.
   - `M U M'` Same thing, but mirrored for the back side
